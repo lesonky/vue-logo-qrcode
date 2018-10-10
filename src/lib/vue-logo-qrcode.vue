@@ -75,8 +75,8 @@ export default {
     },
     methods: {
         // 生成二维码图片
-        genQrCode() {
-            let options = this._$getGenOptions();
+        genQrCode(options) {
+            let options = options || this._$getGenOptions();
             QrCodeWithLogo[METHOD_MAP[this.mode]](options).then(() => {
                 this.done = true;
             })
