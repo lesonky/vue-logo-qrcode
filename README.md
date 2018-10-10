@@ -25,7 +25,7 @@ npm install @njshaoshao/vue-logo-qrcode
 </template>
 
 <script>
-import vueLogoQrcode from 'vue-logo-qrcode';
+import vueLogoQrcode from '@njshaoshao/vue-logo-qrcode';
 export default {
     name: 'app',
     components: { vueLogoQrcode },
