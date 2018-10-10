@@ -1,9 +1,9 @@
 # vue-logo-qrcode
 
-> 一个用于生成带 logo 的 二维码的 vue 组件
-> 基于 [qr-code-with-logo](https://github.com/HerbLuo/qr-code-with-logo) 封装
-> 提供了几个主要的方法封装,如果不能满足定制需求,可以直接使用[qr-code-with-logo](https://github.com/HerbLuo/qr-code-with-logo)参考本插件代码进行自己封装
-> 后期会加入全参数定制,以及示例页面
+> - 一个用于生成带 logo 的 二维码的 vue 组件
+> - 基于 [qr-code-with-logo](https://github.com/HerbLuo/qr-code-with-logo) 封装
+> - 提供了几个主要的方法封装,如果不能满足定制需求,可以直接使用[qr-code-with-logo](https://github.com/HerbLuo/qr-code-with-logo)参考本插件代码进行自己封装
+> - 后期会加入全参数定制,以及示例页面
 
 ## 安装
 
@@ -65,10 +65,10 @@ export default {
 | genQrCodeImageDownload | 下载二维码图片 |
 
 ## 开发进度
-[x] 基础功能
-[ ] 高级定制
-[ ] 示例代码
-[ ] 在线demo
+- [x] 基础功能
+- [ ] 高级定制
+- [ ] 示例代码
+- [ ] 在线demo
 
 ## 本地运行(fork下来自己玩)
 
