@@ -8,7 +8,7 @@
 ## 安装
 
 ```bash
-npm install @lesonky/vue-logo-qrcode
+npm install @njshaoshao/vue-logo-qrcode
 ```
 
 ## 使用示例
